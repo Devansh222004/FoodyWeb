@@ -8,7 +8,7 @@ export default function Footer() {
                 <div className="row">
                     <div className="col-md-4">
                         <h5 className="fw-bold">About Us</h5>
-                        <p>This Website is Developed By <b>Prashant Singh</b></p>
+                        <p>This Website is Developed By <b>Devansh Tripathi</b></p>
                         <p>Learn More About FoodyWeb and Our Mission to Provide Delicious Food Items.</p>
                     </div>
                     <div className="col-md-4">
@@ -48,3 +48,4 @@ export default function Footer() {
         </footer>
     );
 }
+
