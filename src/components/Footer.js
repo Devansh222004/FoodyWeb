@@ -34,7 +34,7 @@ export default function Footer() {
             <div className="container mt-3">
                 <div className="row">
                     <div className="col-md-6">
-                        <p>&copy; 2022 <b>FoodyWeb</b>, Inc. All rights reserved.</p>
+                        <p>&copy; 2025 <b>FoodyWeb</b>, Inc. All rights reserved.</p>
                     </div>
                     <div className="col-md-6 text-end">
                         <ul className="list-inline">
@@ -48,4 +48,5 @@ export default function Footer() {
         </footer>
     );
 }
+
 
